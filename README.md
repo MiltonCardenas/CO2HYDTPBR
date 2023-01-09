@@ -16,4 +16,4 @@ Storage of input variables.
 .fig files that summarize all the results
 
 -> Executables
-SCRIPTS TO EXECUTE
+**SCRIPTS TO EXECUTE**
