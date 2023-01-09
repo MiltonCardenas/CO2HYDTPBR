@@ -1,4 +1,4 @@
- **CO2HYDTPBR CO2 Hydrogenation to Methanol in a Tubular Packed Bed Reactor
+ **CO2HYDTPBR CO2 Hydrogenation to Methanol in a Tubular Packed Bed Reactor**
  
 -> Models: 
 Main Mathematical background of the Reactor Model
